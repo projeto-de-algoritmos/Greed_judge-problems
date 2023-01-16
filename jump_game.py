@@ -1,3 +1,6 @@
+# LeetCode: Jump Game
+# Link: https://leetcode.com/problems/jump-game/description/
+
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
         goal = len(nums) - 1
