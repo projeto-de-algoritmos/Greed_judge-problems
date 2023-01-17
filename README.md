@@ -18,10 +18,11 @@ Resolução de problemas usando algoritmos ambiciosos de juízes online.
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: Javascript/C++ 
+**Linguagem**: Javascript/C++/Python
 
 Os códigos podem ser submetidos para os respectivos juízes online sem nenhuma alteração.
 Para fins de teste, as versões usadas foram:
 
 - Javascript: Node v19.2.0 
 - C++: g++ 12.2.0
+- Python: 3.11.0
