@@ -16,11 +16,11 @@ Resolução de problemas usando algoritmos ambiciosos de juízes online.
 
 ## Screenshots
 
-[Alt Text](/media/ii.png)
-[Alt Text](/media/iii.png)
-[Alt Text](/media/iv.png)
-[Alt Text](/media/p1.jpg)
-[Alt Text](/media/p2.jpg)
+![Alt Text](/media/ii.png)
+![Alt Text](/media/iii.png)
+![Alt Text](/media/iv.png)
+![Alt Text](/media/p1.jpg)
+![Alt Text](/media/p2.jpg)
 
 ### Vídeo
 
