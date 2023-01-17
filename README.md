@@ -15,9 +15,19 @@
 Resolução de problemas usando algoritmos ambiciosos de juízes online.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+[Alt Text](/media/ii.png)
+[Alt Text](/media/iii.png)
+[Alt Text](/media/iv.png)
+[Alt Text](/media/p1.jpg)
+[Alt Text](/media/p2.jpg)
+
+### Vídeo
+
+[O vídeo pode ser encontrado aqui.](/media/video.mp4)
 
 ## Instalação 
+
 **Linguagem**: Javascript/C++/Python
 
 Os códigos podem ser submetidos para os respectivos juízes online sem nenhuma alteração.
